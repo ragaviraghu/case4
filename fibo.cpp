@@ -8,7 +8,7 @@ cin>>n;
 cout<<"The fibonacci series for "<<n<<" terms are : "<<endl;
 for(int i=1;i<=n;++i)
 {
-cout<<f1<<endl;	
+cout<<f2<<endl;	
 f3=f1+f2;
 f1=f2;
 f2=f3;
